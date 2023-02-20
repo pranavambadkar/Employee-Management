@@ -1,4 +1,5 @@
 #Project -- Employee Management System using Python
+#It inlcudes all the validation while creating and updating the employee data
 #Developer -- Pranav Ambadkar
 
 from tkinter import *
@@ -353,4 +354,4 @@ dw.withdraw()
 
 root.mainloop()
 
-#Develop by Pranav
+#Developed by Pranav
